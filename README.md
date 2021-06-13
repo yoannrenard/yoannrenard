@@ -5,7 +5,7 @@
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:renard.yoann@gmail.com)](mailto:renard.yoann@gmail.com)
 [![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://www.yoannrenard.fr/)
 
-<h2> A little about me...  <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"></h2>
+<h2> A little about me...</h2>
 <p>Backend developer for more than 10 years and now freelance, I'm passionate about development, especially about scalability, microservices, API, best practices, devops, and how to build the best product with the best tools.</p>
 
 [comment]: <> (<a href="https://www.buymeacoffee.com/mokkapps" target="_blank" rel="noreferrer nofollow"><img src="https://cdn.buymeacoffee.com/buttons/default-red.png" alt="Buy Me A Coffee" height="40" width="170"></a>)
