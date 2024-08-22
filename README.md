@@ -1,4 +1,4 @@
-<h1>Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px" alt="wave">, I'm <a href="https://yoannrenard.fr/" title="My website">Yoann</a> & I ❤️ code.</h1>
+<h1>Hi there, I'm <a href="https://yoannrenard.fr/" title="My website">Yoann</a> & I ❤️ code.</h1>
 
 [![Github Badge](http://img.shields.io/badge/-Github-black?style=flat-square&logo=github&link=https://github.com/yoannrenard/)](https://github.com/yoannrenard/)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/yoann-renard-96256a30/)](https://www.linkedin.com/in/yoann-renard-96256a30)
