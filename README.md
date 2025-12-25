@@ -7,4 +7,8 @@
 <h2> A little about me...</h2>
 <p>Backend developer for more than 10 years and now freelance, I'm passionate about development, especially about scalability, microservices, API, best practices, devops, and how to build the best product with the best tools.</p>
 
-[comment]: <> (<a href="https://www.buymeacoffee.com/mokkapps" target="_blank" rel="noreferrer nofollow"><img src="https://cdn.buymeacoffee.com/buttons/default-red.png" alt="Buy Me A Coffee" height="40" width="170"></a>)
+I am currently working on Highlite, a browser extension that allows you to annotate, draw, highlight, comment, and then share your annotations from any web page.
+
+Available now on:
+- Firefox: https://addons.mozilla.org/en-GB/firefox/addon/highlite/
+- Chrome: https://chromewebstore.google.com/detail/bceogecjdhnhfcjpimfepbgklmmmcekc?utm_source=github
