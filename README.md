@@ -7,6 +7,8 @@
 ## A little about me...
 Backend developer for more than 10 years and now freelance, I'm passionate about development, especially about scalability, microservices, API, best practices, devops, and how to build the best product with the best tools.
 
+---
+
 ### 🚀 Personal Project
 
 > **I am currently working on Highlite**, a browser extension that allows you to annotate, draw, highlight, comment, and then share your annotations from any web page.
