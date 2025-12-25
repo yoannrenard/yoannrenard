@@ -13,7 +13,7 @@ Backend developer for more than 10 years and now freelance, I'm passionate about
 
 > **I am currently working on Highlite**, a browser extension that allows you to annotate, draw, highlight, comment, and then share your annotations from any web page.
 
-### 🌐 Available now on
+#### Available now on
 
 - **Firefox** [https://addons.mozilla.org/en-GB/firefox/addon/highlite](https://addons.mozilla.org/en-GB/firefox/addon/highlite/)
 - **Chrome** [https://chromewebstore.google.com/detail/bceogecjdhnhfcjpimfepbgklmmmcekc](https://chromewebstore.google.com/detail/bceogecjdhnhfcjpimfepbgklmmmcekc?utm_source=github)
