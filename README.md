@@ -13,8 +13,6 @@
 
 ### 🌐 Available now on
 
-- **Firefox**  
-  https://addons.mozilla.org/en-GB/firefox/addon/highlite/
+- **Firefox** https://addons.mozilla.org/en-GB/firefox/addon/highlite/
 
-- **Chrome**  
-  https://chromewebstore.google.com/detail/bceogecjdhnhfcjpimfepbgklmmmcekc?utm_source=github
+- **Chrome** https://chromewebstore.google.com/detail/bceogecjdhnhfcjpimfepbgklmmmcekc?utm_source=github
