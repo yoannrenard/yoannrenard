@@ -13,6 +13,5 @@
 
 ### 🌐 Available now on
 
-- **Firefox** https://addons.mozilla.org/en-GB/firefox/addon/highlite/
-
-- **Chrome** https://chromewebstore.google.com/detail/bceogecjdhnhfcjpimfepbgklmmmcekc?utm_source=github
+- **Firefox** [[Github Badge](https://addons.mozilla.org/en-GB/firefox/addon/highlite)](https://addons.mozilla.org/en-GB/firefox/addon/highlite/)
+- **Chrome** [[Github Badge](https://chromewebstore.google.com/detail/bceogecjdhnhfcjpimfepbgklmmmcekc)](https://chromewebstore.google.com/detail/bceogecjdhnhfcjpimfepbgklmmmcekc?utm_source=github)
