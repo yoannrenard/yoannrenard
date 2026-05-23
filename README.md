@@ -1,4 +1,4 @@
-# Hi there, I'm <a href="https://yoannrenard.fr/" title="My website">Yoann</a> & I ❤️ code.
+# Hi there, I'm <a href="https://yoannrenard.fr/" title="My website">Yoann</a>.
 
 [![Github Badge](http://img.shields.io/badge/-Github-black?style=flat-square&logo=github&link=https://github.com/yoannrenard/)](https://github.com/yoannrenard/)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/yoann-renard-96256a30/)](https://www.linkedin.com/in/yoann-renard-96256a30)
